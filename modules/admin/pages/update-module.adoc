@@ -1,6 +1,6 @@
 = Обновление модуля
 
-include::webclient:ROOT:partial$excerpts.adoc[tags=what-changed]
+include::5.5.17@webclient:ROOT:partial$excerpts.adoc[tags=what-changed]
 
 include::ROOT::partial$stop.adoc[]
 . Установите новую версию модуля на сервере {dv} из пакета установки `{dv} 5 WorkerService.msi`.

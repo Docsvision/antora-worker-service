@@ -1,6 +1,6 @@
 = Исправленные ошибки
 
-include::webclient:admin:partial$table.adoc[]
+include::5.5.17@webclient:admin:partial$table.adoc[]
 |ERR-3793 (SUP-7494)
 |В документации отсутствовала информация о несовместимости _Службы {ws}_ версии 5.5.2 с модулем _{sm}_.
 |===

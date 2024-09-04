@@ -1,4 +1,4 @@
-* Руководство разработчика модуля
+* Объектная модель модуля
 ** xref:IMessagesService_IN.adoc[]
 ** xref:Messages_CL.adoc[]
 *** xref:MessagesMainInfo_Cl.adoc[]

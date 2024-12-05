@@ -2,5 +2,6 @@
 ** xref:install.adoc[]
 ** xref:update-module.adoc[]
 ** xref:launch.adoc[]
+** xref:cluster.adoc[]
 ** xref:work-log.adoc[]
 ** xref:msg-autoremove.adoc[]

@@ -14,6 +14,7 @@ asciidoc:
     ad-req: 'версии 5.5.3'
     dm-req: 'версии 5.5.4'
     wf-req: 'версии 5.5.3'
+    sm-req: 'версии 5.5.2, сборка 125'
 
 nav:
 - modules/ROOT/nav.adoc

@@ -7,6 +7,8 @@ include::system::partial$stop.adoc[]
 +
 . Выберите базы данных для загрузки библиотек Службы {ws}.
 +
+include::system:ROOT:partial$excerpts.adoc[tags=update-mode]
++
 .Загрузка библиотек Службы {ws}
 image::load-libs.png[Загрузка библиотек Службы {ws}]
 +

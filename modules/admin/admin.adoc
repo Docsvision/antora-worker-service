@@ -5,3 +5,4 @@
 ** xref:cluster.adoc[]
 ** xref:work-log.adoc[]
 ** xref:msg-autoremove.adoc[]
+** xref:parallel.adoc[]

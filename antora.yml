@@ -1,6 +1,6 @@
 name: workerservice
-version: '5.5.2_GBL-4821'
-prerelease: true
+version: "5.5.2"
+prerelease: false
 title: Служба фоновых операций
 asciidoc:
   attributes:

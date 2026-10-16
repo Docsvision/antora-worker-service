@@ -1,6 +1,7 @@
 :of-what: Службы {ws}
 :version: {ws-log-req}
 :module-service: Службы {ws}
+:worker: yeah
 
 = Журналирование Службы {ws}
 

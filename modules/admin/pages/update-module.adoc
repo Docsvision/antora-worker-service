@@ -5,6 +5,17 @@
 
 include::webclient:ROOT:partial$excerpts.adoc[tags=what-changed]
 
+[WARNING]
+====
+Настройка модуля выполняется в конфигурационном файле `appsettings.json`, начиная с {ws-config-req}. `Configuration.json` исключён из чистой установки.
+
+Также обновлён формат строки подключения к {to-sett-serv}, указываемый в `appsettings.json`, адрес должен быть указан без префикса `ConnectAddress=`.
+
+Настройки в прежнем формате, с префиксом `ConnectAddress=`, допускается оставить в `Configuration.json` при обновлении модуля.
+
+Если одинаковые настройки модуля указаны в обоих конфигурационных файлах, приоритетными считаются те, что указаны в `Configuration.json`. Если `Configuration.json` отсутствует, будут использоваться настройки из `appsettings.json`.
+====
+
 include::6.1@platform:admin:partial$update-conditions.adoc[]
 
 include::6.1@platform:admin:partial$update.adoc[]

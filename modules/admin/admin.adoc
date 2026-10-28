@@ -7,3 +7,4 @@
 ** xref:connect-https.adoc[]
 ** xref:msg-autoremove.adoc[]
 ** xref:encryption.adoc[]
+** xref:parallel.adoc[]
